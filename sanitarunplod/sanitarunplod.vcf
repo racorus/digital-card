@@ -13,9 +13,10 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:sanit@ait.asia
 URL;TYPE=Digital Business Card:
-URL:
-
+URL:fast.ait.ac.th
+URL;TYPE=Website:fast.ait.ac.th
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/sanit-arunplod/
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Faculty of Advanced Science and Technology (FAST)AOS: Remote Sensing and Geographic Information Systems (RSGIS)
-UID:EnBizCard-100138766
+UID:EnBizCard-100440126
 END:VCARD
